@@ -1,0 +1,6 @@
+# ignore folders
+__pycache__/
+
+# ignore files 
+playground.py
+.env
